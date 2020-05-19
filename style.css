@@ -1,0 +1,17 @@
+body{   
+height: 80vh;
+width: 95;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: #023b0a;
+}
+
+h1{
+    margin-top: 15vh;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 0;
+    color: rgb(70, 223, 70);
+}
+
